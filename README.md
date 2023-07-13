@@ -25,7 +25,7 @@ Com base nessas informações, identificamos a necessidade de incluir outros cam
 ## Controle de Estoque
 O controle de estoque é uma parte essencial para garantir o abastecimento adequado dos ingredientes.<br>
 Ben deseja monitorar o estoque de forma eficiente, identificando quando é necessário fazer novos pedidos. Para isso, serão coletadas informações sobre os ingredientes utilizados em cada pizza, suas quantidades com base no tamanho da pizza e o nível atual de estoque.
-<br>
+<br><br>
 Para simplificar o projeto, foi assumido que todos os fornecedores têm o mesmo prazo de entrega dos itens. Com base nas informações fornecidas por Ben sobre os ingredientes de cada pizza, incluindo pesos e quantidades necessárias, foi possível criar tabelas separadas para ingredientes e receitas, permitindo o cálculo preciso do custo de cada pizza.
 
 ## Dados dos Funcionários
