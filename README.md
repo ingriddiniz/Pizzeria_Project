@@ -23,7 +23,8 @@ Os pedidos dos clientes serão a base do sistema. Ben forneceu uma lista inicial
 Com base nessas informações, identificamos a necessidade de incluir outros campos, como ID do pedido, tamanho do item e categoria do produto (pizza, acompanhamento, sobremesa, bebida). O endereço de entrega também será dividido em diferentes partes, como endereço 1, endereço 2, cidade e código postal.
 
 ## Controle de Estoque
-O controle de estoque é uma parte essencial para garantir o abastecimento adequado dos ingredientes. Ben deseja monitorar o estoque de forma eficiente, identificando quando é necessário fazer novos pedidos. Para isso, serão coletadas informações sobre os ingredientes utilizados em cada pizza, suas quantidades com base no tamanho da pizza e o nível atual de estoque.
+O controle de estoque é uma parte essencial para garantir o abastecimento adequado dos ingredientes.<br>
+Ben deseja monitorar o estoque de forma eficiente, identificando quando é necessário fazer novos pedidos. Para isso, serão coletadas informações sobre os ingredientes utilizados em cada pizza, suas quantidades com base no tamanho da pizza e o nível atual de estoque.
 <br>
 Para simplificar o projeto, foi assumido que todos os fornecedores têm o mesmo prazo de entrega dos itens. Com base nas informações fornecidas por Ben sobre os ingredientes de cada pizza, incluindo pesos e quantidades necessárias, foi possível criar tabelas separadas para ingredientes e receitas, permitindo o cálculo preciso do custo de cada pizza.
 
