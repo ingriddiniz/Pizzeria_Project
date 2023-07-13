@@ -47,7 +47,6 @@ For this panel, we need the following data:
 
 - Total orders
 - Total sales
-- Total sales
 - Average order value
 - Sales by category
 - Best-selling items
