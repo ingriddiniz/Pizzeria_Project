@@ -67,12 +67,16 @@ Aqui está o que precisamos:
 - Porcentagem de estoque restante por ingrediente
 
 <br>
-Para obter essas informações, são utilizadas duas consultas SQL. A primeira consulta calcula o custo dos ingredientes para cada item vendido. A segunda consulta relaciona os ingredientes com o estoque atual.
+Para obter essas informações, foram utilizadas duas consultas SQL. A primeira consulta calcula o custo dos ingredientes para cada item vendido. A segunda consulta relaciona os ingredientes com o estoque atual.
 
 <br>
 Outra consulta relacionada aos dados dos funcionários foi criada para calcular o custo da equipe com base nas informações de escalas de trabalho. 
 <br>
 Essas consultas são usadas para extrair os dados necessários das tabelas relacionadas e, em seguida, os dados podem ser utilizados para construir os painéis de controle desejados.
+
+## Painéis de Controle 
+
+![dashboard](dashboard-png)
 
 ## Conclusão
 O projeto de construção do banco de dados para a pizzaria busca atender às necessidades de Ben, o cliente, fornecendo uma solução eficiente para armazenar e analisar os dados do negócio. Com a coleta e organização adequada dessas informações, será possível monitorar o desempenho do negócio, gerenciar o estoque de forma mais eficiente e analisar os custos da equipe, proporcionando uma base sólida para a tomada de decisões estratégicas.
