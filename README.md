@@ -10,7 +10,6 @@ O projeto será dividido em três principais áreas de concentração:
 1. Pedidos dos clientes
 2. Controle de estoque
 3. Dados dos funcionários
-<br>
 
 ## Pedidos dos Clientes
 Os pedidos dos clientes serão a base do sistema. Ben forneceu uma lista inicial de dados que deseja coletar para cada pedido:
