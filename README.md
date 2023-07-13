@@ -57,7 +57,7 @@ For this panel, we need the following data:
 
 
 ### Query 2 - Inventory Management
-Aqui está o que precisamos:
+Here is what we need:
 
 - Total quantity per ingredient
 - Total ingredient cost
