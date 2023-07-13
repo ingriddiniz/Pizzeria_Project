@@ -32,8 +32,9 @@ Para simplificar o projeto, foi assumido que todos os fornecedores têm o mesmo 
 Ben também gostaria de ter acesso aos dados dos funcionários e suas escalas de trabalho. Isso inclui informações como salários, horários de entrada e saída. Esses dados serão adicionados ao banco de dados e permitirão o cálculo dos custos com a mão de obra.
 
 ## Ferramentas Utilizadas
-Para projetar o banco de dados, foi utilizada a ferramenta Quick Database Diagrams (Quick DBD), que permitiu visualizar e definir as tabelas, seus campos e relacionamentos. Posteriormente, o diagrama resultante foi exportado para um software de gerenciamento de banco de dados SQL(PostgreSQL).
+Para projetar o banco de dados, foi utilizada a ferramenta Quick Database Diagrams (Quick DBD), que permitiu visualizar e definir as tabelas, seus campos e relacionamentos. Posteriormente, o diagrama resultante foi exportado para um software de gerenciamento de banco de dados SQL(PostgreSQL).<br>
 ![diagrama](QuickDBD.png)
+*diagram*
 
 ## Base de dados
 Após a criação das tabelas, importamos os arquivos CSV de cada tabela, que continham as informações.
