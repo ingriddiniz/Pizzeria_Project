@@ -33,7 +33,7 @@ Ben também gostaria de ter acesso aos dados dos funcionários e suas escalas de
 
 ## Ferramentas Utilizadas
 Para projetar o banco de dados, foi utilizada a ferramenta Quick Database Diagrams (Quick DBD), que permitiu visualizar e definir as tabelas, seus campos e relacionamentos. Posteriormente, o diagrama resultante foi exportado para um software de gerenciamento de banco de dados SQL(PostgreSQL).
-![diagrama](QuickDBD-export (1).png)
+![diagrama](QuickDBD-export(1).png)
 
 ## Base de dados
 Após a criação das tabelas, importamos os arquivos CSV de cada tabela, que continham as informações.
