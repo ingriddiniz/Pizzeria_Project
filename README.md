@@ -76,7 +76,7 @@ Essas consultas são usadas para extrair os dados necessários das tabelas relac
 
 ## Painéis de Controle 
 
-![dashboard](dashboard.pdf)
+Pode vizualizar os Painéis de controlo [aqui](dashboard.pdf)
 
 ## Conclusão
 O projeto de construção do banco de dados para a pizzaria busca atender às necessidades de Ben, o cliente, fornecendo uma solução eficiente para armazenar e analisar os dados do negócio. Com a coleta e organização adequada dessas informações, será possível monitorar o desempenho do negócio, gerenciar o estoque de forma mais eficiente e analisar os custos da equipe, proporcionando uma base sólida para a tomada de decisões estratégicas.
