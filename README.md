@@ -59,7 +59,7 @@ Para esse painel, precisamos dos seguintes dados:
 
 
 ### Query 2 - Gerenciamento de Estoque
-Esse painel é mais complexo do que o painel de pedidos, pois precisamos calcular a quantidade de estoque utilizada e identificar os itens que precisam ser reordenados. Também queremos calcular o custo de cada pizza com base no custo dos ingredientes, para acompanhar o preço e o lucro líquido (P/L). Aqui está o que precisamos:
+Aqui está o que precisamos:
 
 - Quantidade total por ingrediente
 - Custo total dos ingredientes
